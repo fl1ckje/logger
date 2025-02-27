@@ -1,6 +1,6 @@
 module github.com/fl1ckje/logger
 
-go 1.15
+go 1.21
 
 require github.com/jwalton/gchalk v1.3.0
 
