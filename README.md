@@ -2,6 +2,8 @@
 
 Pretty simple colorful logger based on slog package.
 
+![Screenshot](https://github.com/user-attachments/assets/cf6a37f9-c9b8-4fca-b435-53765c70952d)
+
 ## Install
 
 ```
@@ -9,6 +11,7 @@ go get github.com/fl1ckje/logger
 ```
 
 ## Examples
+
 
 ```go
 // Messages without JSON data
