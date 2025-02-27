@@ -1,4 +1,4 @@
-# logger
+# logger [![](https://github.com/fl1ckje/logger/workflows/build/badge.svg)](https://github.com/fl1ckje/logger/actions)
 
 Pretty simple colorful logger based on slog package.
 
